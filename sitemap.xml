@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/groups/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/author/nelson-bighetti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tcs-club.netlify.app/</loc>
+  </url>
+  
+</urlset>

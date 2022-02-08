@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | TCS Club</title>
+    <link>https://tcs-club.netlify.app/publication_types/</link>
+      <atom:link href="https://tcs-club.netlify.app/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://tcs-club.netlify.app/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://tcs-club.netlify.app/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
