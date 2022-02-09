@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TCS Club</title>
-    <link>https://mostafatouny.github.io/</link>
-      <atom:link href="https://mostafatouny.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mostafatouny.github.io/tcs-club-website-public/</link>
+      <atom:link href="https://mostafatouny.github.io/tcs-club-website-public/index.xml" rel="self" type="application/rss+xml" />
     <description>TCS Club</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://mostafatouny.github.io/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mostafatouny.github.io/tcs-club-website-public/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
       <title>TCS Club</title>
-      <link>https://mostafatouny.github.io/</link>
+      <link>https://mostafatouny.github.io/tcs-club-website-public/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://mostafatouny.github.io/about/</link>
+      <link>https://mostafatouny.github.io/tcs-club-website-public/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mostafatouny.github.io/about/</guid>
+      <guid>https://mostafatouny.github.io/tcs-club-website-public/about/</guid>
       <description>&lt;p&gt;about page here, with more info&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mostafatouny.github.io/admin/config.yml</link>
+      <link>https://mostafatouny.github.io/tcs-club-website-public/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mostafatouny.github.io/admin/config.yml</guid>
+      <guid>https://mostafatouny.github.io/tcs-club-website-public/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mostafatouny.github.io/groups/</link>
+      <link>https://mostafatouny.github.io/tcs-club-website-public/groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mostafatouny.github.io/groups/</guid>
+      <guid>https://mostafatouny.github.io/tcs-club-website-public/groups/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://erik-alg-group.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erik&amp;rsquo;s Design and Analysis of Algorithms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://math-ml-group.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial&amp;rsquo;s Mathematics For Machine Learning&lt;/a&gt;&lt;/li&gt;
