@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | TCS Club</title>
-    <link>https://mostafatouny.github.io/tcs-club-website-public/authors/</link>
-      <atom:link href="https://mostafatouny.github.io/tcs-club-website-public/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mostafatouny.github.io/tcs-club-website/authors/</link>
+      <atom:link href="https://mostafatouny.github.io/tcs-club-website/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://mostafatouny.github.io/tcs-club-website-public/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mostafatouny.github.io/tcs-club-website/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://mostafatouny.github.io/tcs-club-website-public/authors/</link>
+      <link>https://mostafatouny.github.io/tcs-club-website/authors/</link>
     </image>
     
   </channel>
