@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TCS Club</title>
-    <link>https://tcs-club.netlify.app/</link>
-      <atom:link href="https://tcs-club.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mostafatouny.github.io/</link>
+      <atom:link href="https://mostafatouny.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>TCS Club</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tcs-club.netlify.app/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mostafatouny.github.io/media/icon_hu44c9550a57c35f525a949fc73efff5dd_23870_512x512_fill_lanczos_center_2.png</url>
       <title>TCS Club</title>
-      <link>https://tcs-club.netlify.app/</link>
+      <link>https://mostafatouny.github.io/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://tcs-club.netlify.app/about/</link>
+      <link>https://mostafatouny.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tcs-club.netlify.app/about/</guid>
+      <guid>https://mostafatouny.github.io/about/</guid>
       <description>&lt;p&gt;about page here, with more info&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tcs-club.netlify.app/admin/config.yml</link>
+      <link>https://mostafatouny.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tcs-club.netlify.app/admin/config.yml</guid>
+      <guid>https://mostafatouny.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tcs-club.netlify.app/groups/</link>
+      <link>https://mostafatouny.github.io/groups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tcs-club.netlify.app/groups/</guid>
+      <guid>https://mostafatouny.github.io/groups/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://erik-alg-group.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erik&amp;rsquo;s Design and Analysis of Algorithms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://math-ml-group.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial&amp;rsquo;s Mathematics For Machine Learning&lt;/a&gt;&lt;/li&gt;
