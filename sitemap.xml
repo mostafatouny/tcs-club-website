@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mostafatouny.github.io/tcs-club-website/about/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/groups/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mostafatouny.github.io/tcs-club-website/</loc>
   </url>
-  
 </urlset>
